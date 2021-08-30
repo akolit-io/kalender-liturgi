@@ -6,6 +6,12 @@ const { chromium } = require('playwright-chromium');
 (async () => {
     const _HEADLESS = process.env.HEADLESS === 'true' ? true : false;
 
+    let urlParam = '';
+    if (process.env.YEAR_MONTH !== null) {
+        const [year, month] = process.env.YEAR_MONTH.split('_');
+        urlParam = `?b=${month}&t=${year}`
+    }
+
     const browser = await chromium.launch({
         headless: _HEADLESS, // so we can see what happen
     });
@@ -16,7 +22,7 @@ const { chromium } = require('playwright-chromium');
 
     // open link, no need to wait whole page to load. we only care about calendar table
     const page = await context.newPage();
-    await page.goto('https://www.imankatolik.or.id/kalender.php');
+    await page.goto('https://www.imankatolik.or.id/kalender.php' + urlParam);
     await page.addScriptTag({ path: 'scraper/kalender.js' }); // as devtools point too
     await page.waitForSelector('.k_tbl');
 
@@ -34,8 +40,5 @@ const { chromium } = require('playwright-chromium');
         if (err) throw err;
         console.log('Data written to file');
     });
-
-
-
 
 })();
