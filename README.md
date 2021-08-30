@@ -20,6 +20,5 @@ Please include credits to the origin (imankatolik.or.id).
     - Try change on `scraper/kalender.js`, call function `scrapeKalender(document)` on `Console` tab
 - Action (#TODO)
 
-
 ## Credits
 - imankatolik.or.id
