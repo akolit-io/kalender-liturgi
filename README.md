@@ -9,7 +9,28 @@ Please include credits to the origin ([imankatolik.or.id]()).
 
 
 ## Static API
-__Kalender__ is automatically scraped every month, and available on this repo : [https://github.com/akolit-io/kalender-liturgi/tree/main/api/v1](). Note that latest `kalender.json` is symlink so it cannot be called directly, just query by the filename by format: `yyyy-mm.json`
+__Kalender__ is automatically scraped every month, and available on this repo : [https://github.com/akolit-io/kalender-liturgi/tree/main/api/v1](). Note that latest `kalender.json` is symlink so it cannot be called directly, just query by the filename by format: `yyyy-mm.json`.
+
+the scraped json format is like this : 
+```json
+//v1
+{
+    date: Date;
+    localDate: string;
+    url: string;
+    name: any;
+    dayColor: any;
+    dayType: any;
+    color: any;
+    readings: {
+        innerHTML: any; // recommended to use this for re-render on html
+        links: {
+            url: any;
+            text: any;
+        }[]; // experimental, since the source format tends to change
+    };
+}
+```
 
 
 ## How to
