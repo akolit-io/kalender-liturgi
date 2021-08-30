@@ -19,7 +19,7 @@ jobs:
       - name: Scrape
         run: |
           make action
-      - name: Git Setup
+      - name: Commit and Push
         run: |
           git config --global user.name 'akolit-io.automata'
           git config --global user.email 'akolit-io.automata@users.noreply.github.com'
