@@ -1,0 +1,28 @@
+
+name: Monthly Scraper
+
+on:
+  schedule:
+    # 07.00 GMT+7
+    - cron: 0 0 1 * *
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install
+        run: |
+          make install
+      - name: Scrape
+        run: |
+          make action
+      - name: Git Setup
+        run: |
+          git config --global user.name 'akolit-io.automata'
+          git config --global user.email 'akolit-io.automata@users.noreply.github.com'
+          git add ./api/v1/
+          git commit -m "[Automated] $(date -u) ${GITHUB_SHA}"
+          git push
