@@ -7,9 +7,14 @@ const { chromium } = require('playwright-chromium');
     const _HEADLESS = process.env.HEADLESS === 'true' ? true : false;
 
     let urlParam = '';
-    if (process.env.YEAR_MONTH !== null) {
-        const [year, month] = process.env.YEAR_MONTH.split('_');
-        urlParam = `?b=${month}&t=${year}`
+    if (process.env.YEAR != null) {
+        process.env.YEAR.match(/^\d{4}$/) || (() => { throw new Error('YEAR must be 4 digits') })();
+    }
+
+    if (process.env.MONTH != null) {
+        process.env.MONTH.match(/^\d{1,2}$/) || (() => { throw new Error('MONTH must be 2 digits') })();
+
+        urlParam = `?b=${process.env.MONTH}&t=${process.env.YEAR}`
     }
 
     const browser = await chromium.launch({
