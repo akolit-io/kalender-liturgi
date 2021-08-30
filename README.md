@@ -1,11 +1,11 @@
 # Kalender Liturgi
-Serve __Kalender Liturgi__ from [imankatolik.or.id/kalender.php]() as static API by scraping from origin source and save to JSON format. Then you could use this for your web / app.
+Serve __Kalender Liturgi__ from [https://imankatolik.or.id/kalender.php](https://imankatolik.or.id/kalender.php) as static API by scraping from origin source and save to JSON format. Then you could use this for your web / app.
 
 
 ## Notice
 It is always a good idea to re-confirm the actual content (readings, colors) with pastor-in-charge / liturgy division.
 
-Please include credits to the origin ([imankatolik.or.id]()).
+Please include credits to the origin ([https://imankatolik.or.id](https://imankatolik.or.id)).
 
 
 ## Static API
@@ -17,16 +17,16 @@ the scraped json format is like this :
 {
     date: Date;
     localDate: string;
-    url: string;
-    name: any;
-    dayColor: any;
-    dayType: any;
-    color: any;
+    url: URL;
+    name: string;
+    dayColor: string;
+    dayType: string;
+    color: string;
     readings: {
-        innerHTML: any; // recommended to use this for re-render on html
+        innerHTML: string; // recommended to use this for re-render on html
         links: {
-            url: any;
-            text: any;
+            url: URL;
+            text: string;
         }[]; // experimental, since the source format tends to change
     };
 }
@@ -51,4 +51,4 @@ the scraped json format is like this :
 
 
 ## Credits
-- [imankatolik.or.id]()
+- [https://imankatolik.or.id](https://imankatolik.or.id)
