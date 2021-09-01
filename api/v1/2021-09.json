@@ -1,0 +1,922 @@
+[
+    {
+        "date": "2021-09-01T00:00:00.000Z",
+        "localDate": "1 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/1Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol1:1-8;\" target=\"_blank\">Kol. 1:1-8</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm52:10;Mzm52:11;\" target=\"_blank\">Mzm. 52:10,11</a>; <br>\n<a href=\"/alkitabq.php?q=Luk4:38-44;\" target=\"_blank\">Luk. 4:38-44</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Am3:1-15;\" target=\"_blank\">Am. 3:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:1-8;",
+                    "text": "Kol. 1:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm52:10;Mzm52:11;",
+                    "text": "Mzm. 52:10,11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk4:38-44;",
+                    "text": "Luk. 4:38-44"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am3:1-15;",
+                    "text": "BcO Am. 3:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-02T00:00:00.000Z",
+        "localDate": "2 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/2Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol1:9-14;\" target=\"_blank\">Kol. 1:9-14</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm98:2-3;Mzm98:3-4;Mzm98:5-6;\" target=\"_blank\">Mzm. 98:2-3ab,3cd-4,5-6</a>; <br>\n<a href=\"/alkitabq.php?q=Luk5:1-11;\" target=\"_blank\">Luk. 5:1-11</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Am4:1-13;\" target=\"_blank\">Am. 4:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:9-14;",
+                    "text": "Kol. 1:9-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm98:2-3;Mzm98:3-4;Mzm98:5-6;",
+                    "text": "Mzm. 98:2-3ab,3cd-4,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk5:1-11;",
+                    "text": "Luk. 5:1-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am4:1-13;",
+                    "text": "BcO Am. 4:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-03T00:00:00.000Z",
+        "localDate": "3 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/3Sep.html",
+        "name": "Peringatan Wajib Gregorius Agung",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol1:15-20;\" target=\"_blank\">Kol. 1:15-20</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm100:2;Mzm100:3;Mzm100:4;Mzm100:5;\" target=\"_blank\">Mzm. 100:2,3,4,5</a>; <br>\n<a href=\"/alkitabq.php?q=Luk5:33-39;\" target=\"_blank\">Luk. 5:33-39</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Am5:1-17;\" target=\"_blank\">Am. 5:1-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:15-20;",
+                    "text": "Kol. 1:15-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm100:2;Mzm100:3;Mzm100:4;Mzm100:5;",
+                    "text": "Mzm. 100:2,3,4,5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk5:33-39;",
+                    "text": "Luk. 5:33-39"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am5:1-17;",
+                    "text": "BcO Am. 5:1-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-04T00:00:00.000Z",
+        "localDate": "4 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/4Sep.html",
+        "name": "Hari Sabtu Imam",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol1:21-23;\" target=\"_blank\">Kol. 1:21-23</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm54:3-4;Mzm54:6;Mzm54:8;\" target=\"_blank\">Mzm. 54:3-4,6,8</a>; <br>\n<a href=\"/alkitabq.php?q=Luk6:1-5;\" target=\"_blank\">Luk. 6:1-5</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Am5:18-99;Am6:1-14;\" target=\"_blank\">Am. 5:18-6:14</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:21-23;",
+                    "text": "Kol. 1:21-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm54:3-4;Mzm54:6;Mzm54:8;",
+                    "text": "Mzm. 54:3-4,6,8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk6:1-5;",
+                    "text": "Luk. 6:1-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am5:18-99;Am6:1-14;",
+                    "text": "BcO Am. 5:18-6:14"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-05T00:00:00.000Z",
+        "localDate": "5 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/5Sep.html",
+        "name": "Hari Minggu Biasa XXIII\nHari Minggu Kitab Suci Nasional",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes35:4-7;\" target=\"_blank\">Yes. 35:4-7a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm146:7;Mzm146:8-9;Mzm146:9-10;\" target=\"_blank\">Mzm. 146:7,8-9a,9bc-10</a>; <br>\n<a href=\"/alkitabq.php?q=Yak2:1-5;\" target=\"_blank\">Yak. 2:1-5</a>; <a href=\"/alkitabq.php?q=Mrk7:31-37;\" target=\"_blank\">Mrk. 7:31-37</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Am7:1-17;\" target=\"_blank\">Am. 7:1-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes35:4-7;",
+                    "text": "Yes. 35:4-7a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm146:7;Mzm146:8-9;Mzm146:9-10;",
+                    "text": "Mzm. 146:7,8-9a,9bc-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yak2:1-5;",
+                    "text": "Yak. 2:1-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk7:31-37;",
+                    "text": "Mrk. 7:31-37"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am7:1-17;",
+                    "text": "BcO Am. 7:1-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-06T00:00:00.000Z",
+        "localDate": "6 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/6Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol1:24-99;Kol2:1-3;\" target=\"_blank\">Kol. 1:24-2:3</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm62:6-7;Mzm62:9;\" target=\"_blank\">Mzm. 62:6-7,9</a>; <br>\n<a href=\"/alkitabq.php?q=Luk6:6-11;\" target=\"_blank\">Luk. 6:6-11</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Am8:1-14;\" target=\"_blank\">Am. 8:1-14</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:24-99;Kol2:1-3;",
+                    "text": "Kol. 1:24-2:3"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm62:6-7;Mzm62:9;",
+                    "text": "Mzm. 62:6-7,9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk6:6-11;",
+                    "text": "Luk. 6:6-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am8:1-14;",
+                    "text": "BcO Am. 8:1-14"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-07T00:00:00.000Z",
+        "localDate": "7 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/7Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol2:6-15;\" target=\"_blank\">Kol. 2:6-15</a>;<br>\n<a href=\"/alkitabq.php?q=Mzm145:1-2;Mzm145:8-9;Mzm145:10-11;\" target=\"_blank\">Mzm. 145:1-2,8-9,10-11</a>; <br>\n<a href=\"/alkitabq.php?q=Luk6:12-19;\" target=\"_blank\">Luk. 6:12-19</a>.<br>\nBcO <a href=\"/alkitabq.php?q=Am9:1-15;\" target=\"_blank\">Am 9:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol2:6-15;",
+                    "text": "Kol. 2:6-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:1-2;Mzm145:8-9;Mzm145:10-11;",
+                    "text": "Mzm. 145:1-2,8-9,10-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk6:12-19;",
+                    "text": "Luk. 6:12-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am9:1-15;",
+                    "text": "BcO Am 9:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-08T00:00:00.000Z",
+        "localDate": "8 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/8Sep.html",
+        "name": "Pesta Kelahiran SP Maria",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Mi5:1-4;\" target=\"_blank\">Mi. 5:1-4a</a> atau <br>\n<a href=\"/alkitabq.php?q=Rm8:28-30;\" target=\"_blank\">Rm. 8:28-30</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm13:6;Mzm13:6;\" target=\"_blank\">Mzm. 13:6ab,6cd</a>; <br>\n<a href=\"/alkitabq.php?q=Mat1:1-16;Mat1:18-23;\" target=\"_blank\">Mat. 1:1-16,18-23</a>  <br>\nBcO <a href=\"/alkitabq.php?q=Kej3:9-20;\" target=\"_blank\">Kej. 3:9-20</a> atau <a href=\"/alkitabq.php?q=Sir24:2-12;Sir24:16-22;\" target=\"_blank\">Sir. 24:2-12,16-22</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi5:1-4;",
+                    "text": "Mi. 5:1-4a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Rm8:28-30;",
+                    "text": "Rm. 8:28-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm13:6;Mzm13:6;",
+                    "text": "Mzm. 13:6ab,6cd"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat1:1-16;Mat1:18-23;",
+                    "text": "Mat. 1:1-16,18-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej3:9-20;Sir24:2-12;Sir24:16-22;",
+                    "text": "BcO Kej. 3:9-20 atau Sir. 24:2-12,16-22"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-09T00:00:00.000Z",
+        "localDate": "9 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/9Sep.html",
+        "name": "Petrus Klaver",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kol3:12-17;\" target=\"_blank\">Kol. 3:12-17</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm150:1-2;Mzm150:3-4;Mzm150:5-6;\" target=\"_blank\">Mzm. 150:1-2,3-4,5-6</a>; <br>\n<a href=\"/alkitabq.php?q=Luk6:27-38;\" target=\"_blank\">Luk. 6:27- 38</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Hos2:2-23;\" target=\"_blank\">Hos. 2:2-23</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol3:12-17;",
+                    "text": "Kol. 3:12-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm150:1-2;Mzm150:3-4;Mzm150:5-6;",
+                    "text": "Mzm. 150:1-2,3-4,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk6:27-38;",
+                    "text": "Luk. 6:27- 38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos2:2-23;",
+                    "text": "BcO Hos. 2:2-23"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-10T00:00:00.000Z",
+        "localDate": "10 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/10Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Tim1:1-2;1Tim1:12-14;\" target=\"_blank\">1Tim. 1:1-2,12-14</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm16:1;Mzm16:2;Mzm16:5;Mzm16:7-8;Mzm16:11;\" target=\"_blank\">Mzm. 16:1,2a,5,7-8,11</a>; <br>\n<a href=\"/alkitabq.php?q=Luk6:39-42;\" target=\"_blank\">Luk. 6:39-42</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Hos4:1-10;Hos5:1-7;\" target=\"_blank\">Hos. 4:1-10; 5:1-7</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim1:1-2;1Tim1:12-14;",
+                    "text": "1Tim. 1:1-2,12-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm16:1;Mzm16:2;Mzm16:5;Mzm16:7-8;Mzm16:11;",
+                    "text": "Mzm. 16:1,2a,5,7-8,11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk6:39-42;",
+                    "text": "Luk. 6:39-42"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos4:1-10;Hos5:1-7;",
+                    "text": "BcO Hos. 4:1-10; 5:1-7"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-11T00:00:00.000Z",
+        "localDate": "11 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/11Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Tim1:15-17;\" target=\"_blank\">1Tim. 1:15-17</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm113:1-2;Mzm113:3-4;Mzm113:5;Mzm113:6-7;\" target=\"_blank\">Mzm. 113:1-2,3-4,5a,6-7</a>; <br>\n<a href=\"/alkitabq.php?q=Luk6:43-49;\" target=\"_blank\">Luk. 6:43-49</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Hos6:1-99;Hos7:1-2;\" target=\"_blank\">Hos. 6:1-7:2</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim1:15-17;",
+                    "text": "1Tim. 1:15-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm113:1-2;Mzm113:3-4;Mzm113:5;Mzm113:6-7;",
+                    "text": "Mzm. 113:1-2,3-4,5a,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk6:43-49;",
+                    "text": "Luk. 6:43-49"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos6:1-99;Hos7:1-2;",
+                    "text": "BcO Hos. 6:1-7:2"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-12T00:00:00.000Z",
+        "localDate": "12 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/12Sep.html",
+        "name": "Hari Minggu Biasa XXIV",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes50:5-9;\" target=\"_blank\">Yes. 50:5-9a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm116:1-2;Mzm116:3-4;Mzm116:5-6;Mzm116:8-9;\" target=\"_blank\">Mzm. 116:1-2,3-4,5-6,8-9</a>; <br>\n<a href=\"/alkitabq.php?q=Yak2:14-18;\" target=\"_blank\">Yak. 2:14-18</a>; <a href=\"/alkitabq.php?q=Mrk8:27-35;\" target=\"_blank\">Mrk. 8:27-35</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Hos8:1-13;\" target=\"_blank\">Hos. 8:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes50:5-9;",
+                    "text": "Yes. 50:5-9a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm116:1-2;Mzm116:3-4;Mzm116:5-6;Mzm116:8-9;",
+                    "text": "Mzm. 116:1-2,3-4,5-6,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yak2:14-18;",
+                    "text": "Yak. 2:14-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk8:27-35;",
+                    "text": "Mrk. 8:27-35"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos8:1-13;",
+                    "text": "BcO Hos. 8:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-13T00:00:00.000Z",
+        "localDate": "13 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/13Sep.html",
+        "name": "Peringatan Wajib Yohanes Krisostomus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Tim2:1-8;\" target=\"_blank\">1Tim. 2:1-8</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm28:2;Mzm28:7;Mzm28:8-9;\" target=\"_blank\">Mzm. 28:2,7,8-9</a>; <a href=\"/alkitabq.php?q=Luk7:1-10;\" target=\"_blank\">Luk. 7:1-10</a>; BcO <a href=\"/alkitabq.php?q=Hos9:1-14;\" target=\"_blank\">Hos 9:1-14</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim2:1-8;",
+                    "text": "1Tim. 2:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm28:2;Mzm28:7;Mzm28:8-9;",
+                    "text": "Mzm. 28:2,7,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk7:1-10;",
+                    "text": "Luk. 7:1-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos9:1-14;",
+                    "text": "BcO Hos 9:1-14"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-14T00:00:00.000Z",
+        "localDate": "14 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/14Sep.html",
+        "name": "Pesta Salib Suci",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Bil21:4-9;\" target=\"_blank\">Bil. 21:4-9</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm78:1-2;Mzm78:34-35;Mzm78:36-37;Mzm78:38;\" target=\"_blank\">Mzm. 78:1-2,34-35,36-37,38</a>; <br>\n<a href=\"/alkitabq.php?q=Flp2:6-11;\" target=\"_blank\">Flp. 2:6-11</a>; <a href=\"/alkitabq.php?q=Yoh3:13-17;\" target=\"_blank\">Yoh. 3:13-17</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Gal2:19-99;Gal3:1-7;Gal2:13-99;Gal3:1-14;Gal6:14-18;\" target=\"_blank\">Gal. 2:19-3:7,13-14; 6:14-18</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Bil21:4-9;",
+                    "text": "Bil. 21:4-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm78:1-2;Mzm78:34-35;Mzm78:36-37;Mzm78:38;",
+                    "text": "Mzm. 78:1-2,34-35,36-37,38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Flp2:6-11;",
+                    "text": "Flp. 2:6-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh3:13-17;",
+                    "text": "Yoh. 3:13-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Gal2:19-99;Gal3:1-7;Gal2:13-99;Gal3:1-14;Gal6:14-18;",
+                    "text": "BcO Gal. 2:19-3:7,13-14; 6:14-18"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-15T00:00:00.000Z",
+        "localDate": "15 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/15Sep.html",
+        "name": "Peringatan Wajib Santa Perawan Maria Berdukacita",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Ibr5:7-9;\" target=\"_blank\">Ibr. 5: 7-9</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm31:2-3;Mzm31:3-4;Mzm31:5-6;Mzm31:15-16;Mzm31:20;\" target=\"_blank\">Mzm 31:2-3a,3b-4,5-6,15-16, 20</a>; <br>\n<a href=\"/alkitabq.php?q=Yoh19:25-27;\" target=\"_blank\">Yoh. 19:25-27</a> atau <a href=\"/alkitabq.php?q=Luk2:33-35;\" target=\"_blank\">Luk. 2:33-35</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Hos11:1-11;\" target=\"_blank\">Hos 11:1-11</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ibr5:7-9;",
+                    "text": "Ibr. 5: 7-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm31:2-3;Mzm31:3-4;Mzm31:5-6;Mzm31:15-16;Mzm31:20;",
+                    "text": "Mzm 31:2-3a,3b-4,5-6,15-16, 20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh19:25-27;Luk2:33-35;",
+                    "text": "Yoh. 19:25-27 atau Luk. 2:33-35"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos11:1-11;",
+                    "text": "BcO Hos 11:1-11"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-16T00:00:00.000Z",
+        "localDate": "16 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/16Sep.html",
+        "name": "Peringatan Wajib Kornelius, Siprianus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Tim4:12-16;\" target=\"_blank\">1Tim. 4:12-16</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm111:7-8;Mzm111:9;Mzm111:10;\" target=\"_blank\">Mzm. 111:7-8,9,10</a>; <br>\n<a href=\"/alkitabq.php?q=Luk7:36-50;\" target=\"_blank\">Luk. 7:36-50</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Hos13:1-16;\" target=\"_blank\">Hos. 13:1-16</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim4:12-16;",
+                    "text": "1Tim. 4:12-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm111:7-8;Mzm111:9;Mzm111:10;",
+                    "text": "Mzm. 111:7-8,9,10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk7:36-50;",
+                    "text": "Luk. 7:36-50"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos13:1-16;",
+                    "text": "BcO Hos. 13:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-17T00:00:00.000Z",
+        "localDate": "17 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/17Sep.html",
+        "name": "Robertus Bellarminus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Tim6:2-12;\" target=\"_blank\">1Tim. 6:2c-12</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm49:6-7;Mzm49:8-9;\" target=\"_blank\">Mzm. 49:6-7,8-9,17-18-20</a>; <br>\n<a href=\"/alkitabq.php?q=Luk8:1-3;\" target=\"_blank\">Luk. 8:1-3</a>. BcO <a href=\"/alkitabq.php?q=Hos14:1-9;\" target=\"_blank\">Hos. 14:1-9</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim6:2-12;",
+                    "text": "1Tim. 6:2c-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm49:6-7;Mzm49:8-9;",
+                    "text": "Mzm. 49:6-7,8-9,17-18-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk8:1-3;",
+                    "text": "Luk. 8:1-3"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos14:1-9;",
+                    "text": "BcO Hos. 14:1-9"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-18T00:00:00.000Z",
+        "localDate": "18 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/18Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Tim6:13-16;\" target=\"_blank\">1Tim. 6:13-16</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm100:2;Mzm100:3;Mzm100:4;Mzm100:5;\" target=\"_blank\">Mzm. 100:2,3,4,5</a>; <br>\n<a href=\"/alkitabq.php?q=Luk8:4-15;\" target=\"_blank\">Luk. 8:4-15</a>. <br>\nBcO <a href=\"/alkitabq.php?q=2Raj15:1-5;2Raj15:32-35;2Raj16:1-8;\" target=\"_blank\">2Raj. 15:1-5,32-35; 16:1-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim6:13-16;",
+                    "text": "1Tim. 6:13-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm100:2;Mzm100:3;Mzm100:4;Mzm100:5;",
+                    "text": "Mzm. 100:2,3,4,5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk8:4-15;",
+                    "text": "Luk. 8:4-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Raj15:1-5;2Raj15:32-35;2Raj16:1-8;",
+                    "text": "BcO 2Raj. 15:1-5,32-35; 16:1-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-19T00:00:00.000Z",
+        "localDate": "19 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/19Sep.html",
+        "name": "Hari Minggu Biasa XXV",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Keb2:12;Keb2:17-20;\" target=\"_blank\">Keb. 2:12,17-20</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm54:3-4;Mzm54:5;Mzm54:6;Mzm54:8;\" target=\"_blank\">Mzm. 54:3-4,5,6,8</a>; <br>\n<a href=\"/alkitabq.php?q=Yak3:16-99;Yak4:1-3;\" target=\"_blank\">Yak. 3:16 - 4:3</a>; <br>\n<a href=\"/alkitabq.php?q=Mrk9:30-37;\" target=\"_blank\">Mrk. 9:30-37</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes6:1-13;\" target=\"_blank\">Yes. 6:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Keb2:12;Keb2:17-20;",
+                    "text": "Keb. 2:12,17-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm54:3-4;Mzm54:5;Mzm54:6;Mzm54:8;",
+                    "text": "Mzm. 54:3-4,5,6,8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yak3:16-99;Yak4:1-3;",
+                    "text": "Yak. 3:16 - 4:3"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk9:30-37;",
+                    "text": "Mrk. 9:30-37"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes6:1-13;",
+                    "text": "BcO Yes. 6:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-20T00:00:00.000Z",
+        "localDate": "20 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/20Sep.html",
+        "name": "Peringatan Wajib Andreas Kim Taegon, Paulus Chong Hasang",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Ezr1:1-6;\" target=\"_blank\">Ezr. 1:1-6</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm126:1-2;Mzm126:2-3;Mzm126:4-5;Mzm126:6;\" target=\"_blank\">Mzm. 126:1-2ab,2cd-3,4-5,6</a>; <br>\n<a href=\"/alkitabq.php?q=Luk8:16-18;\" target=\"_blank\">Luk. 8:16-18</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Yes3:1-15;\" target=\"_blank\">Yes 3:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ezr1:1-6;",
+                    "text": "Ezr. 1:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm126:1-2;Mzm126:2-3;Mzm126:4-5;Mzm126:6;",
+                    "text": "Mzm. 126:1-2ab,2cd-3,4-5,6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk8:16-18;",
+                    "text": "Luk. 8:16-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes3:1-15;",
+                    "text": "BcO Yes 3:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-21T00:00:00.000Z",
+        "localDate": "21 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/21Sep.html",
+        "name": "Pesta St. Matius",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Ef4:1-7;Ef4:11-13;\" target=\"_blank\">Ef. 4:1-7,11-13</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm19:2-3;Mzm19:4-5;\" target=\"_blank\">Mzm. 19:2-3,4-5</a>; <br>\n<a href=\"/alkitabq.php?q=Mat9:9-13;\" target=\"_blank\">Mat. 9:9-13</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ef4:1-16;\" target=\"_blank\">Ef. 4:1-16</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef4:1-7;Ef4:11-13;",
+                    "text": "Ef. 4:1-7,11-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm19:2-3;Mzm19:4-5;",
+                    "text": "Mzm. 19:2-3,4-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat9:9-13;",
+                    "text": "Mat. 9:9-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef4:1-16;",
+                    "text": "BcO Ef. 4:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-22T00:00:00.000Z",
+        "localDate": "22 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/22Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Ezr9:5-9;\" target=\"_blank\">Ezr. 9:5-9</a>; <br>\nMT Tb. 13:2,3-4a,4bcd,5,8; <br>\n<a href=\"/alkitabq.php?q=Luk9:1-6;\" target=\"_blank\">Luk. 9:1-6</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes7:1-17;\" target=\"_blank\">Yes. 7:1-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ezr9:5-9;",
+                    "text": "Ezr. 9:5-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:1-6;",
+                    "text": "Luk. 9:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes7:1-17;",
+                    "text": "BcO Yes. 7:1-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-23T00:00:00.000Z",
+        "localDate": "23 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/23Sep.html",
+        "name": "Peringatan Wajib St. Padre Pio dari Pietrelcina",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hag1:1-8;\" target=\"_blank\">Hag. 1:1-8</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm149:1-2;Mzm149:3-4;Mzm149:5-6;Mzm149:9;\" target=\"_blank\">Mzm. 149:1-2,3-4,5-6a,9b</a>; <br>\n<a href=\"/alkitabq.php?q=Luk9:7-9;\" target=\"_blank\">Luk. 9:7-9</a> <br>\nBcO <a href=\"/alkitabq.php?q=Yes9:8-99;Yes10:1-4;\" target=\"_blank\">Yes. 9:8-10:4</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hag1:1-8;",
+                    "text": "Hag. 1:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm149:1-2;Mzm149:3-4;Mzm149:5-6;Mzm149:9;",
+                    "text": "Mzm. 149:1-2,3-4,5-6a,9b"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:7-9;",
+                    "text": "Luk. 9:7-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes9:8-99;Yes10:1-4;",
+                    "text": "BcO Yes. 9:8-10:4"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-24T00:00:00.000Z",
+        "localDate": "24 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/24Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hag2:1-10;\" target=\"_blank\">Hag. 2:1b-10</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm43:1;Mzm43:2;Mzm43:3;Mzm43:4;\" target=\"_blank\">Mzm. 43:1,2,3,4</a>; <br>\n<a href=\"/alkitabq.php?q=Luk9:19-22;\" target=\"_blank\">Luk. 9:19-22</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes28:1-6;Yes28:14-22;\" target=\"_blank\">Yes. 28:1-6,14-22</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hag2:1-10;",
+                    "text": "Hag. 2:1b-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm43:1;Mzm43:2;Mzm43:3;Mzm43:4;",
+                    "text": "Mzm. 43:1,2,3,4"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:19-22;",
+                    "text": "Luk. 9:19-22"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes28:1-6;Yes28:14-22;",
+                    "text": "BcO Yes. 28:1-6,14-22"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-25T00:00:00.000Z",
+        "localDate": "25 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/25Sep.html",
+        "name": "Hari biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Za2:1-5;Za2:10-11;\" target=\"_blank\">Za. 2:1-5,10-11a</a>; <br>\nMT <a href=\"/alkitabq.php?q=Yer31:10;Yer31:11-12;Yer31:13;\" target=\"_blank\">Yer. 31:10,11-12ab,13</a>; <br>\n<a href=\"/alkitabq.php?q=Luk9:43-45;\" target=\"_blank\">Luk. 9:43b-45</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Mi1:1-9;Mi2:1-11;\" target=\"_blank\">Mi. 1:1-9; 2:1-11</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za2:1-5;Za2:10-11;",
+                    "text": "Za. 2:1-5,10-11a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer31:10;Yer31:11-12;Yer31:13;",
+                    "text": "MT Yer. 31:10,11-12ab,13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:43-45;",
+                    "text": "Luk. 9:43b-45"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi1:1-9;Mi2:1-11;",
+                    "text": "BcO Mi. 1:1-9; 2:1-11"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-26T00:00:00.000Z",
+        "localDate": "26 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/26Sep.html",
+        "name": "Hari Minggu Biasa XXVI",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Bil11:25-29;\" target=\"_blank\">Bil. 11:25-29</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm19:8;Mzm19:10;Mzm19:12-13;Mzm19:14;\" target=\"_blank\">Mzm. 19:8,10,12-13,14</a>; <br>\n<a href=\"/alkitabq.php?q=Yak5:1-6;\" target=\"_blank\">Yak. 5:1-6</a>; <br>\n<a href=\"/alkitabq.php?q=Mrk9:38-43;Mrk9:45;Mrk9:47-48;\" target=\"_blank\">Mrk. 9:38-43,45,47-48</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Mi3:1-12;\" target=\"_blank\">Mi. 3:1-12</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Bil11:25-29;",
+                    "text": "Bil. 11:25-29"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm19:8;Mzm19:10;Mzm19:12-13;Mzm19:14;",
+                    "text": "Mzm. 19:8,10,12-13,14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yak5:1-6;",
+                    "text": "Yak. 5:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk9:38-43;Mrk9:45;Mrk9:47-48;",
+                    "text": "Mrk. 9:38-43,45,47-48"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi3:1-12;",
+                    "text": "BcO Mi. 3:1-12"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-27T00:00:00.000Z",
+        "localDate": "27 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/27Sep.html",
+        "name": "Peringatan Wajib Vinsensius a Paulo",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Za8:1-8;\" target=\"_blank\">Za. 8:1-8</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm102:16-18;Mzm102:19-21;Mzm102:29;Mzm102:22-23;\" target=\"_blank\">Mzm. 102:16-18,19-21,29,22-23</a>; <br>\n<a href=\"/alkitabq.php?q=Luk9:46-50;\" target=\"_blank\">Luk. 9:46-50</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Mi6:1-15;\" target=\"_blank\">Mi. 6:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za8:1-8;",
+                    "text": "Za. 8:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm102:16-18;Mzm102:19-21;Mzm102:29;Mzm102:22-23;",
+                    "text": "Mzm. 102:16-18,19-21,29,22-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:46-50;",
+                    "text": "Luk. 9:46-50"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi6:1-15;",
+                    "text": "BcO Mi. 6:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-28T00:00:00.000Z",
+        "localDate": "28 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/28Sep.html",
+        "name": "Wenseslaus, Laurensius Ruiz",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Za8:20-23;\" target=\"_blank\">Za. 8:20-23</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm87:1-3;Mzm87:4-5;Mzm87:6-7;\" target=\"_blank\">Mzm. 87:1-3,4-5,6-7</a>; <br>\n<a href=\"/alkitabq.php?q=Luk9:51-56;\" target=\"_blank\">Luk. 9:51-56</a>. <br>\nBcO <a href=\"/alkitabq.php?q=2Raj1:17-18;\" target=\"_blank\">2 Raj 17-18</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za8:20-23;",
+                    "text": "Za. 8:20-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm87:1-3;Mzm87:4-5;Mzm87:6-7;",
+                    "text": "Mzm. 87:1-3,4-5,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:51-56;",
+                    "text": "Luk. 9:51-56"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Raj1:17-18;",
+                    "text": "BcO 2 Raj 17-18"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-29T00:00:00.000Z",
+        "localDate": "29 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/29Sep.html",
+        "name": "Pesta St. Mikael, Gabriel, dan Rafael, Malaikat Agung",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Dan7:9-10;Dan7:13-14;\" target=\"_blank\">Dan. 7:9-10,13-14</a> atau <a href=\"/alkitabq.php?q=Why12:7-12;\" target=\"_blank\">Why. 12:7-12a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm138:1-2;Mzm138:2-3;Mzm138:4-5;\" target=\"_blank\">Mzm. 138:1-2a,2bc-3,4-5</a>; <br>\n<a href=\"/alkitabq.php?q=Yoh1:47-51;\" target=\"_blank\">Yoh. 1:47-51</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why12:1-18;\" target=\"_blank\">Why 12:1-18</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Dan7:9-10;Dan7:13-14;Why12:7-12;",
+                    "text": "Dan. 7:9-10,13-14 atau Why. 12:7-12a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm138:1-2;Mzm138:2-3;Mzm138:4-5;",
+                    "text": "Mzm. 138:1-2a,2bc-3,4-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh1:47-51;",
+                    "text": "Yoh. 1:47-51"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why12:1-18;",
+                    "text": "BcO Why 12:1-18"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-09-30T00:00:00.000Z",
+        "localDate": "30 September 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=09&t=2021/kalender/30Sep.html",
+        "name": "Peringatan Wajib Hieronimus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Neh8:1-4;Neh8:5-6;Neh8:7-12;\" target=\"_blank\">Neh. 8:1-4a,5-6,7b-12</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm19:8;Mzm19:9;Mzm19:10;Mzm19:11;\" target=\"_blank\">Mzm. 19:8,9,10,11</a>; <br>\n<a href=\"/alkitabq.php?q=Luk10:1-12;\" target=\"_blank\">Luk. 10:1-12</a>; BcO <a href=\"/alkitabq.php?q=2Taw29:1-2;2Taw30:1-16;\" target=\"_blank\">2 <br>\nTaw 29:1-2; 30:1-16a</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Neh8:1-4;Neh8:5-6;Neh8:7-12;",
+                    "text": "Neh. 8:1-4a,5-6,7b-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm19:8;Mzm19:9;Mzm19:10;Mzm19:11;",
+                    "text": "Mzm. 19:8,9,10,11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk10:1-12;",
+                    "text": "Luk. 10:1-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Taw29:1-2;2Taw30:1-16;",
+                    "text": "BcO 2 Taw 29:1-2; 30:1-16a"
+                }
+            ]
+        }
+    }
+]
