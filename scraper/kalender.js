@@ -30,7 +30,8 @@ const parseDay = (el, meta) => {
         url: `${document.baseURI}${tglEl.parentElement.getAttribute('href')}`,
 
         // day name of the feast / memorial / ferial
-        name: perayaanEl.textContent.replace('<br>', '').replace(/\s\n|\s{2,}|\n/, ' '),
+        name: perayaanEl.textContent.replace('<br>', '')
+                                    .replace(/\s?\n|\s{2,}|\\n/g, ' '),
 
         // liturgical date 
         dayColor: dayColor,
