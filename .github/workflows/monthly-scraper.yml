@@ -18,7 +18,10 @@ jobs:
         run: |
           make install
       - name: Scrape
+        # executed at 00.00 H+0 == 17.00 H-1 <- real server time. add 7 hour for server to act.
         run: |
+          YEAR=$(date -d '+7 hour 7 second' +'%Y') \
+          MONTH=$(date -d '+7 hour 7 second' +'%m') \
           make action
       - name: Commit and Push
         run: |
