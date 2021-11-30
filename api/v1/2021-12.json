@@ -1,0 +1,1004 @@
+[
+    {
+        "date": "2021-12-01T00:00:00.000Z",
+        "localDate": "1 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/1Des.html",
+        "name": "Peringatan Wajib Bruder Dionisius dan Redemptus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes25:6-10;\" target=\"_blank\">Yes. 25:6-10a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm23:1-3;Mzm23:3-4;Mzm23:5;Mzm23:6;\" target=\"_blank\">Mzm. 23:1-3a,3b-4,5,6</a>; <br>\n<a href=\"/alkitabq.php?q=Mat15:29-37;\" target=\"_blank\">Mat. 15:29-37</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Yes5:1-7;\" target=\"_blank\">Yes. 5:1-7</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes25:6-10;",
+                    "text": "Yes. 25:6-10a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm23:1-3;Mzm23:3-4;Mzm23:5;Mzm23:6;",
+                    "text": "Mzm. 23:1-3a,3b-4,5,6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat15:29-37;",
+                    "text": "Mat. 15:29-37"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes5:1-7;",
+                    "text": "BcO Yes. 5:1-7"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-02T00:00:00.000Z",
+        "localDate": "2 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/2Des.html",
+        "name": "Hari Biasa Pekan I Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes26:1-6;\" target=\"_blank\">Yes. 26:1-6</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm118:1;Mzm118:8-9;Mzm118:19-21;Mzm118:25-27;\" target=\"_blank\">Mzm. 118:1,8-9,19-21,25-27a</a>; <br>\n<a href=\"/alkitabq.php?q=Mat7:21;Mat7:24-27;\" target=\"_blank\">Mat. 7:21,24-27</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes16:1-5;Yes17:4-8;\" target=\"_blank\">Yes. 16:1-5;17:4-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes26:1-6;",
+                    "text": "Yes. 26:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm118:1;Mzm118:8-9;Mzm118:19-21;Mzm118:25-27;",
+                    "text": "Mzm. 118:1,8-9,19-21,25-27a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat7:21;Mat7:24-27;",
+                    "text": "Mat. 7:21,24-27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes16:1-5;Yes17:4-8;",
+                    "text": "BcO Yes. 16:1-5;17:4-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-03T00:00:00.000Z",
+        "localDate": "3 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/3Des.html",
+        "name": "Pesta St. Fransiskus Xaverius",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor9:16-19;1Kor9:22-23;\" target=\"_blank\">1Kor. 9:16-19,22-23</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm117:1;Mzm117:2;\" target=\"_blank\">Mzm. 117:1,2</a>; <br>\n<a href=\"/alkitabq.php?q=Mrk16:15-20;\" target=\"_blank\">Mrk. 16:15-20</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kis20:17-36;\" target=\"_blank\">Kis. 20:17-36</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor9:16-19;1Kor9:22-23;",
+                    "text": "1Kor. 9:16-19,22-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm117:1;Mzm117:2;",
+                    "text": "Mzm. 117:1,2"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk16:15-20;",
+                    "text": "Mrk. 16:15-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis20:17-36;",
+                    "text": "BcO Kis. 20:17-36"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-04T00:00:00.000Z",
+        "localDate": "4 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/4Des.html",
+        "name": "Yohanes dari Damsyik",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes30:19-21;Yes30:23-26;\" target=\"_blank\">Yes. 30:19-21,23-26</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm147:1-2;Mzm147:3-4;Mzm147:5-6;\" target=\"_blank\">Mzm. 147:1-2,3-4,5-6</a>; <br>\n<a href=\"/alkitabq.php?q=Mat9:35-99;Mat10:1-1;Mat9:6-99;Mat10:1-8;\" target=\"_blank\">Mat. 9:35 - 10:1,6-8</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Yes21:6-12;\" target=\"_blank\">Yes. 21:6-12</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes30:19-21;Yes30:23-26;",
+                    "text": "Yes. 30:19-21,23-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm147:1-2;Mzm147:3-4;Mzm147:5-6;",
+                    "text": "Mzm. 147:1-2,3-4,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat9:35-99;Mat10:1-1;Mat9:6-99;Mat10:1-8;",
+                    "text": "Mat. 9:35 - 10:1,6-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes21:6-12;",
+                    "text": "BcO Yes. 21:6-12"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-05T00:00:00.000Z",
+        "localDate": "5 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/5Des.html",
+        "name": "HARI MINGGU ADVEN II",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Bar5:1-9;\" target=\"_blank\">Bar. 5:1-9</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm126:1-2;Mzm126:2-3;Mzm126:4-5;Mzm126:6;\" target=\"_blank\">Mzm. 126:1-2ab,2cd-3,4-5.6</a>; <br>\n<a href=\"/alkitabq.php?q=Flp1:4-6;Flp1:8-11;\" target=\"_blank\">Flp. 1:4-6,8-11</a>; <br>\n<a href=\"/alkitabq.php?q=Luk3:1-6;\" target=\"_blank\">Luk. 3:1-6</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes22:8-23;\" target=\"_blank\">Yes. 22:8b-23</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Bar5:1-9;",
+                    "text": "Bar. 5:1-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm126:1-2;Mzm126:2-3;Mzm126:4-5;Mzm126:6;",
+                    "text": "Mzm. 126:1-2ab,2cd-3,4-5.6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Flp1:4-6;Flp1:8-11;",
+                    "text": "Flp. 1:4-6,8-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk3:1-6;",
+                    "text": "Luk. 3:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes22:8-23;",
+                    "text": "BcO Yes. 22:8b-23"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-06T00:00:00.000Z",
+        "localDate": "6 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/6Des.html",
+        "name": "Nikolaus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes35:1-10;\" target=\"_blank\">Yes. 35:1-10</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm85:9-10;Mzm85:11-12;Mzm85:13-14;\" target=\"_blank\">Mzm. 85:9ab-10,11-12,13-14</a>; <br>\n<a href=\"/alkitabq.php?q=Luk5:17-26;\" target=\"_blank\">Luk. 5:17-26</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes24:1-18;\" target=\"_blank\">Yes. 24:1-18a</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes35:1-10;",
+                    "text": "Yes. 35:1-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm85:9-10;Mzm85:11-12;Mzm85:13-14;",
+                    "text": "Mzm. 85:9ab-10,11-12,13-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk5:17-26;",
+                    "text": "Luk. 5:17-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes24:1-18;",
+                    "text": "BcO Yes. 24:1-18a"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-07T00:00:00.000Z",
+        "localDate": "7 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/7Des.html",
+        "name": "Peringatan Wajib Ambrosius",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes40:1-11;\" target=\"_blank\">Yes. 40:1-11</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm96:1-2;Mzm96:3;Mzm96:10;Mzm96:11-12;Mzm96:13;\" target=\"_blank\">Mzm. 96:1-2,3,10ac,11-12,13</a>; <br>\n<a href=\"/alkitabq.php?q=Mat18:12-14;\" target=\"_blank\">Mat. 18:12-14</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Yes24:18-99;Yes25:1-5;\" target=\"_blank\">Yes. 24:18b-25:5</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes40:1-11;",
+                    "text": "Yes. 40:1-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:1-2;Mzm96:3;Mzm96:10;Mzm96:11-12;Mzm96:13;",
+                    "text": "Mzm. 96:1-2,3,10ac,11-12,13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat18:12-14;",
+                    "text": "Mat. 18:12-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes24:18-99;Yes25:1-5;",
+                    "text": "BcO Yes. 24:18b-25:5"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-08T00:00:00.000Z",
+        "localDate": "8 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/8Des.html",
+        "name": "HARI RAYA SP MARIA DIKANDUNG TANPA NODA",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kej3:9-15;Kej3:20;\" target=\"_blank\">Kej. 3:9-15,20</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm98:1;Mzm98:2-3;Mzm98:3-4;\" target=\"_blank\">Mzm. 98:1,2-3ab,3bc-4</a>; <br>\n<a href=\"/alkitabq.php?q=Ef1:3-6;Ef1:11-12;\" target=\"_blank\">Ef. 1:3-6,11-12</a>; <br>\n<a href=\"/alkitabq.php?q=Luk1:26-38;\" target=\"_blank\">Luk. 1:26-38</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Rm5:12-21;\" target=\"_blank\">Rm. 5:12-21</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej3:9-15;Kej3:20;",
+                    "text": "Kej. 3:9-15,20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm98:1;Mzm98:2-3;Mzm98:3-4;",
+                    "text": "Mzm. 98:1,2-3ab,3bc-4"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef1:3-6;Ef1:11-12;",
+                    "text": "Ef. 1:3-6,11-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:26-38;",
+                    "text": "Luk. 1:26-38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Rm5:12-21;",
+                    "text": "BcO Rm. 5:12-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-09T00:00:00.000Z",
+        "localDate": "9 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/9Des.html",
+        "name": "Yohanes Didaci Cuauhtlatoatzin",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes41:13-20;\" target=\"_blank\">Yes. 41:13-20</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm145:1;Mzm145:9;Mzm145:10-11;Mzm145:12-13;\" target=\"_blank\">Mzm. 145:1,9,10-11,12-13ab</a>; <br>\n<a href=\"/alkitabq.php?q=Mat11:11-15;\" target=\"_blank\">Mat. 11:11-15</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes26:7-21;\" target=\"_blank\">Yes. 26:7-21</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes41:13-20;",
+                    "text": "Yes. 41:13-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:1;Mzm145:9;Mzm145:10-11;Mzm145:12-13;",
+                    "text": "Mzm. 145:1,9,10-11,12-13ab"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat11:11-15;",
+                    "text": "Mat. 11:11-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes26:7-21;",
+                    "text": "BcO Yes. 26:7-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-10T00:00:00.000Z",
+        "localDate": "10 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/10Des.html",
+        "name": "Perawan Maria dari Loreto",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes48:17-19;\" target=\"_blank\">Yes. 48:17-19</a>;<br>\n <a href=\"/alkitabq.php?q=Mzm1:1-2;Mzm1:3;Mzm1:4;Mzm1:6;\" target=\"_blank\">Mzm. 1:1-2,3,4,6</a>; <br>\n<a href=\"/alkitabq.php?q=Mat11:16-19;\" target=\"_blank\">Mat. 11:16-19</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes27:1-13;\" target=\"_blank\">Yes. 27:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes48:17-19;",
+                    "text": "Yes. 48:17-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm1:1-2;Mzm1:3;Mzm1:4;Mzm1:6;",
+                    "text": "Mzm. 1:1-2,3,4,6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat11:16-19;",
+                    "text": "Mat. 11:16-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes27:1-13;",
+                    "text": "BcO Yes. 27:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-11T00:00:00.000Z",
+        "localDate": "11 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/11Des.html",
+        "name": "Damasus I",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Sir48:1-4;Sir48:9-11;\" target=\"_blank\">Sir. 48:1-4,9-11</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm80:2;Mzm80:3;Mzm80:15-16;Mzm80:18-19;\" target=\"_blank\">Mzm. 80:2ac,3b,15-16,18-19</a>; <br>\n<a href=\"/alkitabq.php?q=Mat17:10-13;\" target=\"_blank\">Mat. 17:10-13</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes29:1-8;\" target=\"_blank\">Yes. 29:1-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Sir48:1-4;Sir48:9-11;",
+                    "text": "Sir. 48:1-4,9-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm80:2;Mzm80:3;Mzm80:15-16;Mzm80:18-19;",
+                    "text": "Mzm. 80:2ac,3b,15-16,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat17:10-13;",
+                    "text": "Mat. 17:10-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes29:1-8;",
+                    "text": "BcO Yes. 29:1-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-12T00:00:00.000Z",
+        "localDate": "12 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/12Des.html",
+        "name": "HARI MINGGU ADVEN III",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Zef3:14-18;\" target=\"_blank\">Zef. 3:14-18a</a>; <br>\nMT <a href=\"/alkitabq.php?q=Yes12:2-3;Yes12:4;Yes12:5-6;\" target=\"_blank\">Yes. 12:2-3,4bcd,5-6</a>; <a href=\"/alkitabq.php?q=Flp4:4-7;\" target=\"_blank\">Flp. 4:4-7</a>; <br>\n<a href=\"/alkitabq.php?q=Luk3:10-18;\" target=\"_blank\">Luk. 3:10-18</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes29:13-24;\" target=\"_blank\">Yes 29:13-24</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Zef3:14-18;",
+                    "text": "Zef. 3:14-18a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes12:2-3;Yes12:4;Yes12:5-6;",
+                    "text": "MT Yes. 12:2-3,4bcd,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Flp4:4-7;",
+                    "text": "Flp. 4:4-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk3:10-18;",
+                    "text": "Luk. 3:10-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes29:13-24;",
+                    "text": "BcO Yes 29:13-24"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-13T00:00:00.000Z",
+        "localDate": "13 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/13Des.html",
+        "name": "Peringatan Wajib Lusia",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Bil24:2-7;Bil24:15-17;\" target=\"_blank\">Bil. 24:2-7,15-17a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm25:4-5;Mzm25:6-7;Mzm25:8-9;\" target=\"_blank\">Mzm. 25:4bc-5ab,6-7c,8-9</a>; <br>\n<a href=\"/alkitabq.php?q=Mat21:23-27;\" target=\"_blank\">Mat. 21:23-27</a>;  <br>\nBcO <a href=\"/alkitabq.php?q=Yes30:18-26;\" target=\"_blank\">Yes. 30:18-26</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Bil24:2-7;Bil24:15-17;",
+                    "text": "Bil. 24:2-7,15-17a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm25:4-5;Mzm25:6-7;Mzm25:8-9;",
+                    "text": "Mzm. 25:4bc-5ab,6-7c,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat21:23-27;",
+                    "text": "Mat. 21:23-27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes30:18-26;",
+                    "text": "BcO Yes. 30:18-26"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-14T00:00:00.000Z",
+        "localDate": "14 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/14Des.html",
+        "name": "Peringatan Wajib Yohanes dari Salib",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Zef3:1-2;Zef3:9-13;\" target=\"_blank\">Zef. 3:1-2,9-13</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm34:2-3;Mzm34:6-7;Mzm34:17-18;Mzm34:19;Mzm34:23;\" target=\"_blank\">Mzm. 34:2-3,6-7,17-18,19,23</a>; <br>\n<a href=\"/alkitabq.php?q=Mat21:28-32;\" target=\"_blank\">Mat. 21:28-32</a>; <br>\nBcO <a href=\"/alkitabq.php?q=Yes30:27-33;Yes31:4-9;\" target=\"_blank\">Yes. 30:27-33; 31:4-9</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Zef3:1-2;Zef3:9-13;",
+                    "text": "Zef. 3:1-2,9-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm34:2-3;Mzm34:6-7;Mzm34:17-18;Mzm34:19;Mzm34:23;",
+                    "text": "Mzm. 34:2-3,6-7,17-18,19,23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat21:28-32;",
+                    "text": "Mat. 21:28-32"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes30:27-33;Yes31:4-9;",
+                    "text": "BcO Yes. 30:27-33; 31:4-9"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-15T00:00:00.000Z",
+        "localDate": "15 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/15Des.html",
+        "name": "Hari Biasa Pekan III Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes45:6-8;Yes45:18;Yes45:21-25;\" target=\"_blank\">Yes. 45:6b-8,18,21b-25</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm85:9-10;Mzm85:11-12;Mzm85:13-14;\" target=\"_blank\">Mzm. 85:9ab-10,11-12,13-14</a>; <br>\n<a href=\"/alkitabq.php?q=Luk7:19-23;\" target=\"_blank\">Luk. 7:19-23</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes31:1-3;Yes32:1-8;\" target=\"_blank\">Yes. 31:1-3; 32:1-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes45:6-8;Yes45:18;Yes45:21-25;",
+                    "text": "Yes. 45:6b-8,18,21b-25"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm85:9-10;Mzm85:11-12;Mzm85:13-14;",
+                    "text": "Mzm. 85:9ab-10,11-12,13-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk7:19-23;",
+                    "text": "Luk. 7:19-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes31:1-3;Yes32:1-8;",
+                    "text": "BcO Yes. 31:1-3; 32:1-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-16T00:00:00.000Z",
+        "localDate": "16 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/16Des.html",
+        "name": "Hari Biasa Pekan III Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes54:1-10;\" target=\"_blank\">Yes 54:1-10</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm30:2;Mzm30:4;Mzm30:5-6;Mzm30:11-12;Mzm30:13;\" target=\"_blank\">Mzm 30:2.4.5-6.11-12a.13b</a>; <br>\n<a href=\"/alkitabq.php?q=Luk7:24-30;\" target=\"_blank\">Luk 7:24-30</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes32:15-99;Yes33:1-6;\" target=\"_blank\">Yes. 32:15-33:6</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes54:1-10;",
+                    "text": "Yes 54:1-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm30:2;Mzm30:4;Mzm30:5-6;Mzm30:11-12;Mzm30:13;",
+                    "text": "Mzm 30:2.4.5-6.11-12a.13b"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk7:24-30;",
+                    "text": "Luk 7:24-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes32:15-99;Yes33:1-6;",
+                    "text": "BcO Yes. 32:15-33:6"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-17T00:00:00.000Z",
+        "localDate": "17 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/17Des.html",
+        "name": "Hari Biasa Khusus Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kej49:2;Kej49:8-10;\" target=\"_blank\">Kej. 49:2,8-10</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm72:1-2;Mzm72:3-4;Mzm72:7-8;Mzm72:17;\" target=\"_blank\">Mzm. 72:1-2,3-4ab,7-8,17</a>; <br>\n<a href=\"/alkitabq.php?q=Mat1:1-17;\" target=\"_blank\">Mat. 1:1-17</a>.  <br>\nBcO <a href=\"/alkitabq.php?q=Yes45:1-13;\" target=\"_blank\">Yes. 45:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej49:2;Kej49:8-10;",
+                    "text": "Kej. 49:2,8-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm72:1-2;Mzm72:3-4;Mzm72:7-8;Mzm72:17;",
+                    "text": "Mzm. 72:1-2,3-4ab,7-8,17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat1:1-17;",
+                    "text": "Mat. 1:1-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes45:1-13;",
+                    "text": "BcO Yes. 45:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-18T00:00:00.000Z",
+        "localDate": "18 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/18Des.html",
+        "name": "Hari Biasa Khusus Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer23:5-8;\" target=\"_blank\">Yer. 23:5-8</a>;<br>\n <a href=\"/alkitabq.php?q=Mzm72:2;Mzm72:12-13;Mzm72:18-19;\" target=\"_blank\">Mzm. 72:2,12-13,18-19</a>; <br>\n<a href=\"/alkitabq.php?q=Mat1:18-24;\" target=\"_blank\">Mat. 1:18-24</a>.  <br>\nBcO <a href=\"/alkitabq.php?q=Yes46:1-13;\" target=\"_blank\">Yes. 46:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer23:5-8;",
+                    "text": "Yer. 23:5-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm72:2;Mzm72:12-13;Mzm72:18-19;",
+                    "text": "Mzm. 72:2,12-13,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat1:18-24;",
+                    "text": "Mat. 1:18-24"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes46:1-13;",
+                    "text": "BcO Yes. 46:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-19T00:00:00.000Z",
+        "localDate": "19 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/19Des.html",
+        "name": "HARI MINGGU ADVEN IV",
+        "dayColor": "#ff0000",
+        "dayType": "minggu",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Mi5:1-4;\" target=\"_blank\">Mi. 5:1-4a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm80:2;Mzm80:3;Mzm80:15-16;Mzm80:18-19;\" target=\"_blank\">Mzm. 80:2ac,3b,15-16,18-19</a>; <br>\n<a href=\"/alkitabq.php?q=Ibr10:5-10;\" target=\"_blank\">Ibr. 10:5-10</a>; <br>\n<a href=\"/alkitabq.php?q=Luk1:39-45;\" target=\"_blank\">Luk. 1:39-45</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes47:1-15;\" target=\"_blank\">Yes. 47:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi5:1-4;",
+                    "text": "Mi. 5:1-4a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm80:2;Mzm80:3;Mzm80:15-16;Mzm80:18-19;",
+                    "text": "Mzm. 80:2ac,3b,15-16,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ibr10:5-10;",
+                    "text": "Ibr. 10:5-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:39-45;",
+                    "text": "Luk. 1:39-45"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes47:1-15;",
+                    "text": "BcO Yes. 47:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-20T00:00:00.000Z",
+        "localDate": "20 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/20Des.html",
+        "name": "Hari Biasa Khusus Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes7:10-14;\" target=\"_blank\">Yes. 7:10-14</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm24:1-2;Mzm24:3-4;Mzm24:5-6;\" target=\"_blank\">Mzm. 24:1-2,3-4ab,5-6</a>; <br>\n<a href=\"/alkitabq.php?q=Luk1:26-38;\" target=\"_blank\">Luk. 1:26-38</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes48:1-11;\" target=\"_blank\">Yes. 48:1-11</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes7:10-14;",
+                    "text": "Yes. 7:10-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm24:1-2;Mzm24:3-4;Mzm24:5-6;",
+                    "text": "Mzm. 24:1-2,3-4ab,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:26-38;",
+                    "text": "Luk. 1:26-38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes48:1-11;",
+                    "text": "BcO Yes. 48:1-11"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-21T00:00:00.000Z",
+        "localDate": "21 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/21Des.html",
+        "name": "Petrus Kanisius",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kid2:8-14;\" target=\"_blank\">Kid. 2:8-14</a> atau <a href=\"/alkitabq.php?q=Zef3:14-18;\" target=\"_blank\">Zef. 3:14-18a</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm33:2-3;Mzm33:11-12;Mzm33:20-21;\" target=\"_blank\">Mzm. 33:2-3,11-12,20-21</a>; <br>\n<a href=\"/alkitabq.php?q=Luk1:39-45;\" target=\"_blank\">Luk. 1:39-45</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes48:12-21;Yes49:9-13;\" target=\"_blank\">Yes. 48:12-21; 49:9b-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kid2:8-14;Zef3:14-18;",
+                    "text": "Kid. 2:8-14 atau Zef. 3:14-18a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm33:2-3;Mzm33:11-12;Mzm33:20-21;",
+                    "text": "Mzm. 33:2-3,11-12,20-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:39-45;",
+                    "text": "Luk. 1:39-45"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes48:12-21;Yes49:9-13;",
+                    "text": "BcO Yes. 48:12-21; 49:9b-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-22T00:00:00.000Z",
+        "localDate": "22 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/22Des.html",
+        "name": "Hari Biasa Khusus Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Sam1:24-28;\" target=\"_blank\">1Sam. 1:24-28</a>; <br>\nMT <a href=\"/alkitabq.php?q=1Sam2:1;1Sam2:4-5;1Sam2:6-7;1Sam2:8;\" target=\"_blank\">1Sam. 2:1,4-5,6-7,8abcd</a>; <br>\n<a href=\"/alkitabq.php?q=Luk1:46-56;\" target=\"_blank\">Luk. 1:46-56</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes49:14-99;Yes50:1-1;\" target=\"_blank\">Yes. 49:14-50:1</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Sam1:24-28;",
+                    "text": "1Sam. 1:24-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Sam2:1;1Sam2:4-5;1Sam2:6-7;1Sam2:8;",
+                    "text": "MT 1Sam. 2:1,4-5,6-7,8abcd"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:46-56;",
+                    "text": "Luk. 1:46-56"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes49:14-99;Yes50:1-1;",
+                    "text": "BcO Yes. 49:14-50:1"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-23T00:00:00.000Z",
+        "localDate": "23 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/23Des.html",
+        "name": "Yohanes dari Kety",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Mal3:1-4;Mal4:5-6;\" target=\"_blank\">Mal. 3:1-4; 4:5-6</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm25:4-5;Mzm25:8-9;Mzm25:10;Mzm25:14;\" target=\"_blank\">Mzm. 25:4bc-5ab,8-9,10,14</a>; <br>\n<a href=\"/alkitabq.php?q=Luk1:57-66;\" target=\"_blank\">Luk. 1:57-66</a>. BcO <a href=\"/alkitabq.php?q=Yes51:1-11;\" target=\"_blank\">Yes. 51:1-11</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mal3:1-4;Mal4:5-6;",
+                    "text": "Mal. 3:1-4; 4:5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm25:4-5;Mzm25:8-9;Mzm25:10;Mzm25:14;",
+                    "text": "Mzm. 25:4bc-5ab,8-9,10,14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:57-66;",
+                    "text": "Luk. 1:57-66"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes51:1-11;",
+                    "text": "BcO Yes. 51:1-11"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-24T00:00:00.000Z",
+        "localDate": "24 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/24Des.html",
+        "name": "Hari Biasa Khusus Adven",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "ungu dan putih",
+        "readings": {
+            "innerHTML": "Pagi: <a href=\"/alkitabq.php?q=2Sam7:1-5;2Sam7:8-12;2Sam7:16;\" target=\"_blank\">2Sam. 7:1-5,8b-12,16</a>; <a href=\"/alkitabq.php?q=Mzm89:2-3;Mzm89:4-5;Mzm89:27;Mzm89:29;\" target=\"_blank\">Mzm. 89:2-3,4-5,27,29</a>; <a href=\"/alkitabq.php?q=Luk1:67-79;\" target=\"_blank\">Luk. 1:67-79</a>.<br>\nSore Menjelang HARI RAYA Natal (P). <a href=\"/alkitabq.php?q=Yes62:1-5;\" target=\"_blank\">Yes. 62:1-5</a>; <a href=\"/alkitabq.php?q=Mzm89:4-5;Mzm89:16-17;Mzm89:27;Mzm89:29;\" target=\"_blank\">Mzm. 89:4-5,16-17,27,29</a>; <a href=\"/alkitabq.php?q=Kis13:16-17;Kis13:22-25;\" target=\"_blank\">Kis. 13:16-17,22-25</a>; <a href=\"/alkitabq.php?q=Mat1:1-25;\" target=\"_blank\">Mat. 1:1-25</a> <br>\nMisa Malam Natal: <a href=\"/alkitabq.php?q=Yes9:1-6;\" target=\"_blank\">Yes. 9:1-6</a>; <a href=\"/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:11-12;Mzm96:13;\" target=\"_blank\">Mzm. 96:1-2a,2b-3,11-12,13</a>; <a href=\"/alkitabq.php?q=Tit2:11-14;\" target=\"_blank\">Tit. 2:11-14</a>; <a href=\"/alkitabq.php?q=Luk2:1-14;\" target=\"_blank\">Luk. 2:1-14</a><br>\nBcO <a href=\"/alkitabq.php?q=Yes51:17-99;Yes52:1-2;Yes51:7-99;Yes52:1-10;\" target=\"_blank\">Yes. 51:17-52:2,7-10</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Sam7:1-5;2Sam7:8-12;2Sam7:16;",
+                    "text": "Pagi 2Sam. 7:1-5,8b-12,16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm89:2-3;Mzm89:4-5;Mzm89:27;Mzm89:29;",
+                    "text": "Mzm. 89:2-3,4-5,27,29"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:67-79;",
+                    "text": "Luk. 1:67-79"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes62:1-5;",
+                    "text": "Sore Yes. 62:1-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm89:4-5;Mzm89:16-17;Mzm89:27;Mzm89:29;",
+                    "text": "Mzm. 89:4-5,16-17,27,29"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis13:16-17;Kis13:22-25;",
+                    "text": "Kis. 13:16-17,22-25"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat1:1-25;",
+                    "text": "Mat. 1:1-25"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes9:1-6;",
+                    "text": "Misa Yes. 9:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:11-12;Mzm96:13;",
+                    "text": "Mzm. 96:1-2a,2b-3,11-12,13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Tit2:11-14;",
+                    "text": "Tit. 2:11-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk2:1-14;",
+                    "text": "Luk. 2:1-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes51:17-99;Yes52:1-2;Yes51:7-99;Yes52:1-10;",
+                    "text": "BcO Yes. 51:17-52:2,7-10"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-25T00:00:00.000Z",
+        "localDate": "25 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/25Des.html",
+        "name": "HARI RAYA NATAL",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "Fajar: <br>\n<br>\n<a href=\"/alkitabq.php?q=Yes62:11-12;\" target=\"_blank\">Yes. 62:11-12</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm97:1;Mzm97:6;Mzm97:11-12;\" target=\"_blank\">Mzm. 97:1,6,11-12</a>; <br>\n<a href=\"/alkitabq.php?q=Tit3:4-7;\" target=\"_blank\">Tit. 3:4-7</a>; <br>\n<a href=\"/alkitabq.php?q=Luk2:15-20;\" target=\"_blank\">Luk. 2:15-20</a>.  <br>\nSiang: <a href=\"/alkitabq.php?q=Yes52:7-10;\" target=\"_blank\">Yes. 52:7-10</a>; <a href=\"/alkitabq.php?q=Mzm98:1;Mzm98:2-3;Mzm98:3-4;Mzm98:5-6;\" target=\"_blank\">Mzm. 98:1,2-3ab,3cd-4,5-6</a>; <a href=\"/alkitabq.php?q=Ibr1:1-6;\" target=\"_blank\">Ibr. 1:1-6</a>; <a href=\"/alkitabq.php?q=Yoh1:1-18;\" target=\"_blank\">Yoh. 1:1-18</a><br>\nBcO <a href=\"/alkitabq.php?q=Yes11:1-10;\" target=\"_blank\">Yes. 11:1-10</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes62:11-12;",
+                    "text": "Yes. 62:11-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm97:1;Mzm97:6;Mzm97:11-12;",
+                    "text": "Mzm. 97:1,6,11-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Tit3:4-7;",
+                    "text": "Tit. 3:4-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk2:15-20;",
+                    "text": "Luk. 2:15-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes52:7-10;",
+                    "text": "Siang Yes. 52:7-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm98:1;Mzm98:2-3;Mzm98:3-4;Mzm98:5-6;",
+                    "text": "Mzm. 98:1,2-3ab,3cd-4,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ibr1:1-6;",
+                    "text": "Ibr. 1:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh1:1-18;",
+                    "text": "Yoh. 1:1-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes11:1-10;",
+                    "text": "BcO Yes. 11:1-10"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-26T00:00:00.000Z",
+        "localDate": "26 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/26Des.html",
+        "name": "Pesta Keluarga Kudus, Yesus, Maria",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Sam1:20-22;1Sam1:24-28;\" target=\"_blank\">1Sam. 1:20-22,24-28</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm84:2-3;Mzm84:5-6;Mzm84:9-10;\" target=\"_blank\">Mzm. 84:2-3,5-6,9-10</a>; <br>\n<a href=\"/alkitabq.php?q=1Yoh3:1-2;1Yoh3:21-24;\" target=\"_blank\">1Yoh. 3:1-2,21-24</a>; <br>\n<a href=\"/alkitabq.php?q=Luk2:41-52;\" target=\"_blank\">Luk. 2:41-52</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ef5:21-99;Ef6:1-4;\" target=\"_blank\">Ef. 5:21 - 6:4</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Sam1:20-22;1Sam1:24-28;",
+                    "text": "1Sam. 1:20-22,24-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm84:2-3;Mzm84:5-6;Mzm84:9-10;",
+                    "text": "Mzm. 84:2-3,5-6,9-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh3:1-2;1Yoh3:21-24;",
+                    "text": "1Yoh. 3:1-2,21-24"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk2:41-52;",
+                    "text": "Luk. 2:41-52"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef5:21-99;Ef6:1-4;",
+                    "text": "BcO Ef. 5:21 - 6:4"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-27T00:00:00.000Z",
+        "localDate": "27 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/27Des.html",
+        "name": "Pesta St. Yohanes, Rasul",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Yoh1:1-4;\" target=\"_blank\">1Yoh. 1:1-4</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm97:1-2;Mzm97:5-6;Mzm97:11-12;\" target=\"_blank\">Mzm. 97:1-2,5-6,11-12</a>; <br>\n<a href=\"/alkitabq.php?q=Yoh20:2-8;\" target=\"_blank\">Yoh. 20:2-8</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh1:1-99;1Yoh2:1-3;\" target=\"_blank\">1Yoh. 1:1- 2:3</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh1:1-4;",
+                    "text": "1Yoh. 1:1-4"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm97:1-2;Mzm97:5-6;Mzm97:11-12;",
+                    "text": "Mzm. 97:1-2,5-6,11-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh20:2-8;",
+                    "text": "Yoh. 20:2-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh1:1-99;1Yoh2:1-3;",
+                    "text": "BcO 1Yoh. 1:1- 2:3"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-28T00:00:00.000Z",
+        "localDate": "28 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/28Des.html",
+        "name": "Pesta Kanak-kanak Suci",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Yoh1:5-99;1Yoh2:1-2;\" target=\"_blank\">1Yoh. 1:5 - 2:2</a>;<br>\n<a href=\"/alkitabq.php?q=Mzm124:2-3;Mzm124:4-5;Mzm124:7-8;\" target=\"_blank\">Mzm. 124:2-3,4-5,7b-8</a>;<br>\n <a href=\"/alkitabq.php?q=Mat2:13-18;\" target=\"_blank\">Mat. 2:13-18</a>.  <br>\nBcO <a href=\"/alkitabq.php?q=Kel1:8-16;Kel1:22;\" target=\"_blank\">Kel. 1:8-16,22</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh1:5-99;1Yoh2:1-2;",
+                    "text": "1Yoh. 1:5 - 2:2"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm124:2-3;Mzm124:4-5;Mzm124:7-8;",
+                    "text": "Mzm. 124:2-3,4-5,7b-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat2:13-18;",
+                    "text": "Mat. 2:13-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kel1:8-16;Kel1:22;",
+                    "text": "BcO Kel. 1:8-16,22"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-29T00:00:00.000Z",
+        "localDate": "29 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/29Des.html",
+        "name": "Tomas Becket",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Yoh2:3-11;\" target=\"_blank\">1Yoh. 2:3-11</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:5-6;\" target=\"_blank\">Mzm. 96:1-2a,2b-3,5b-6</a>; <br>\n<a href=\"/alkitabq.php?q=Luk2:22-35;\" target=\"_blank\">Luk. 2:22-35</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kid1:1-8;\" target=\"_blank\">Kid. 1:1-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh2:3-11;",
+                    "text": "1Yoh. 2:3-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:5-6;",
+                    "text": "Mzm. 96:1-2a,2b-3,5b-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk2:22-35;",
+                    "text": "Luk. 2:22-35"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kid1:1-8;",
+                    "text": "BcO Kid. 1:1-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-30T00:00:00.000Z",
+        "localDate": "30 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/30Des.html",
+        "name": "Hari Keenam Dalam Oktaf Natal",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Yoh2:12-17;\" target=\"_blank\">1Yoh. 2:12-17</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm96:7-8;Mzm96:8-9;Mzm96:10;\" target=\"_blank\">Mzm. 96:7-8a,8b-9,10</a>; <br>\n<a href=\"/alkitabq.php?q=Luk2:36-40;\" target=\"_blank\">Luk. 2:36-40</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kid1:12-99;Kid2:1-7;\" target=\"_blank\">Kid. 1:12-2:7</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh2:12-17;",
+                    "text": "1Yoh. 2:12-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:7-8;Mzm96:8-9;Mzm96:10;",
+                    "text": "Mzm. 96:7-8a,8b-9,10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk2:36-40;",
+                    "text": "Luk. 2:36-40"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kid1:12-99;Kid2:1-7;",
+                    "text": "BcO Kid. 1:12-2:7"
+                }
+            ]
+        }
+    },
+    {
+        "date": "2021-12-31T00:00:00.000Z",
+        "localDate": "31 Desember 2021",
+        "url": "https://www.imankatolik.or.id/kalender.php?b=12&t=2021/kalender/31Des.html",
+        "name": "Silvester I",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Yoh2:18-21;\" target=\"_blank\">1Yoh. 2:18-21</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm96:1-2;Mzm96:11-12;Mzm96:13;\" target=\"_blank\">Mzm. 96:1-2,11-12,13</a>; <br>\n<a href=\"/alkitabq.php?q=Yoh1:1-18;\" target=\"_blank\">Yoh. 1:1-18</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kid2:8-99;Kid3:1-5;\" target=\"_blank\">Kid. 2:8-3:5</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh2:18-21;",
+                    "text": "1Yoh. 2:18-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:1-2;Mzm96:11-12;Mzm96:13;",
+                    "text": "Mzm. 96:1-2,11-12,13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh1:1-18;",
+                    "text": "Yoh. 1:1-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kid2:8-99;Kid3:1-5;",
+                    "text": "BcO Kid. 2:8-3:5"
+                }
+            ]
+        }
+    }
+]
