@@ -3,7 +3,8 @@ MONTH ?= $(shell date +'%m')
 latest := ${YEAR}-${MONTH}.json
 
 install:
-	npm install
+	npm install -y
+	npx playwright install chromium
 
 action:
 	mkdir -p ./api/v1
