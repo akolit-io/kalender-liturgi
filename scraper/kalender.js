@@ -27,7 +27,7 @@ const parseDay = (el, meta) => {
         localDate: `${tglEl.textContent} ${meta.bulan} ${meta.tahun}`,
 
         // url to details
-        url: `${document.baseURI}${tglEl.parentElement.getAttribute('href')}`,
+        url: `${location.origin}${tglEl.parentElement.getAttribute('href')}`,
 
         // day name of the feast / memorial / ferial
         name: perayaanEl.textContent.replace('<br>', '')
