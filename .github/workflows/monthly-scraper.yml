@@ -20,13 +20,12 @@ jobs:
       - name: Scrape
         # executed at 00.00 H+0 == 17.00 H-1 <- real server time. add 7 hour for server to act.
         run: |
-          YEAR=$(date -d '+7 hour 7 second' +'%Y') \
-          MONTH=$(date -d '+7 hour 7 second' +'%m') \
+          YEARMONTH=$(date -d '+7 hour 7 second' +'%Y-%m') \
           make action
       - name: Commit and Push
         run: |
           git config --global user.name '${{ github.actor }}'
-          git config --global user.email '${{ github.actor }}.@users.noreply.github.com'
+          git config --global user.email '${{ github.actor }}@users.noreply.github.com'
           git add ./api/v1/
-          git commit -m "[Automated] $(date -u) ${GITHUB_SHA}"
+          git commit -m "[Automated] {YEARMONTH} ${GITHUB_SHA}"
           git push

@@ -7,14 +7,11 @@ const { chromium } = require('playwright-chromium');
     const _HEADLESS = process.env.HEADLESS === 'true' ? true : false;
 
     let urlParam = '';
-    if (process.env.YEAR != null) {
-        process.env.YEAR.match(/^\d{4}$/) || (() => { throw new Error('YEAR must be 4 digits') })();
-    }
-
-    if (process.env.MONTH != null) {
-        process.env.MONTH.match(/^\d{1,2}$/) || (() => { throw new Error('MONTH must be 2 digits') })();
-
-        urlParam = `?b=${process.env.MONTH}&t=${process.env.YEAR}`
+    if (process.env.YEARMONTH != null) {
+        process.env.YEARMONTH.match(/^\d{4}-\d{2}$/) || (() => { throw new Error('YEARMONTH must be in format : YYYY-mm (4 digits year, dash, 2 digits month)') })();
+        
+        const [year, month] = process.env.YEARMONTH.split('-');
+        urlParam = `?t=${year}&b=${month}`;
     }
 
     const browser = await chromium.launch({
@@ -35,15 +32,16 @@ const { chromium } = require('playwright-chromium');
     let kalenderData = await page.evaluate(`scrapeKalender(document)`);
 
     if (!_HEADLESS) {
+        console.info("Open your browser to see the process");
         await page.pause();
     }
 
     // close our browser
     await browser.close();
     // save the file
-    await fs.writeFile('./kalender.temp.json', JSON.stringify(kalenderData, null, 4), (err) => {
+    await fs.writeFile(`./${process.env.YEARMONTH}.json`, JSON.stringify(kalenderData, null, 4), (err) => {
         if (err) throw err;
-        console.log('Data written to file');
+        console.log(`Data written to file ./${process.env.YEARMONTH}.json`);
     });
 
 })();
