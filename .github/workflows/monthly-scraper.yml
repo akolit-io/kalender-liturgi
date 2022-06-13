@@ -25,8 +25,8 @@ jobs:
           make action
       - name: Commit and Push
         run: |
-          git config --global user.name 'akolit-io.automata'
-          git config --global user.email 'akolit-io.automata@users.noreply.github.com'
+          git config --global user.name '${{ github.actor }}'
+          git config --global user.email '${{ github.actor }}.@users.noreply.github.com'
           git add ./api/v1/
           git commit -m "[Automated] $(date -u) ${GITHUB_SHA}"
           git push
