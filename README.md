@@ -3,13 +3,15 @@ Serve __Kalender Liturgi__ from [https://imankatolik.or.id/kalender.php](https:/
 
 
 ## Notice
-It is always a good idea to re-confirm the actual content (readings, colors) with pastor-in-charge / liturgy division.
-
 Please include credits to the origin ([https://imankatolik.or.id](https://imankatolik.or.id)).
+
+It is always a good idea to re-confirm the actual content (readings, colors) with pastor-in-charge / liturgy division.
 
 
 ## Static API
-__Kalender__ is automatically scraped every month, and available on this repo : [https://github.com/akolit-io/kalender-liturgi/tree/main/api/v1](). Note that latest `kalender.json` is symlink so it cannot be called directly, just query by the filename by format: `yyyy-mm.json`.
+To use the static API, [https://akolites.github.io/kalender-liturgi/api/v1/]() is strongly suggested as endpoint instead of [https://raw.githubusercontent.com/akolites/kalender-liturgi/main/api/v1/](), as the former was hosted on Github Pages, which is backed by CDN.
+
+use `kalender.json` which is clone (hardlink) of the current month. if you need another month, use `yyyy-mm.json`.
 
 the scraped json format is like this : 
 ```json

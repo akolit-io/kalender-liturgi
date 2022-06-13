@@ -13,15 +13,13 @@ const parseDay = (el, meta) => {
     const pakaianEl = el.getElementsByClassName('k_pakaian').item(0);
 
     const date = new Date(
-        parseInt(meta.tahun),
-        MONTHS_ID.indexOf(meta.bulan), // month start from 0
-        parseInt(tglEl.textContent),
+        `${parseInt(meta.tahun)}-${MONTHS_ID.indexOf(meta.bulan)}-${parseInt(tglEl.textContent)} 00:00:00 +07:00`
     );
     const dayColor = tglEl.getAttribute('style').match(/color:(#.{6})/).pop();
 
     return {
         // actual date
-        date: date,
+        date: date.getTime(),
 
         // indonesian format date
         localDate: `${tglEl.textContent} ${meta.bulan} ${meta.tahun}`,
@@ -31,7 +29,7 @@ const parseDay = (el, meta) => {
 
         // day name of the feast / memorial / ferial
         name: perayaanEl.textContent.replace('<br>', '')
-                                    .replace(/\s?\n|\s{2,}|\\n/g, ' '),
+            .replace(/\s?\n|\s{2,}|\\n/g, ' '),
 
         // liturgical date 
         dayColor: dayColor,

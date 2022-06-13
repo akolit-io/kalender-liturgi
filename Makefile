@@ -1,6 +1,5 @@
-YEAR ?= $(shell date +'%Y')
-MONTH ?= $(shell date +'%m')
-latest := ${YEAR}-${MONTH}.json
+NEXT_YEARMONTH ?= $(shell date +'%Y-%m' -d '1 month')
+THIS_YEARMONTH ?= $(shell date +'%Y-%m')
 
 install:
 	npm install -y
@@ -8,9 +7,12 @@ install:
 
 action:
 	mkdir -p ./api/v1
-	YEAR=${YEAR} MONTH=${MONTH} HEADLESS=true  node runner.js
-	mv ./kalender.temp.json ./api/v1/${latest}
-	rm -f ./api/v1/kalender.json && ln -s ./api/v1/${latest} ./api/v1/kalender.json
+	YEARMONTH=${THIS_YEARMONTH} HEADLESS=true  node runner.js
+	mv -f ./${THIS_YEARMONTH}.json ./api/v1/${THIS_YEARMONTH}.json
+	rm -f ./api/v1/kalender.json && ln -P ./api/v1/${THIS_YEARMONTH}.json ./api/v1/kalender.json
+
+	YEARMONTH=${NEXT_YEARMONTH} HEADLESS=true  node runner.js
+	mv -f ./${NEXT_YEARMONTH}.json ./api/v1/${NEXT_YEARMONTH}.json
 
 develop:
-	YEAR=${YEAR} MONTH=${MONTH} HEADLESS=false  node runner.js
+	YEARMONTH=${THIS_YEARMONTH} HEADLESS=true  node runner.js

@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akolit-io/kalender-liturgi.git"
+    "url": "git+https://github.com/akolites/kalender-liturgi.git"
   },
   "bugs": {
-    "url": "https://github.com/akolit-io/kalender-liturgi/issues"
+    "url": "https://github.com/akolites/kalender-liturgi/issues"
   },
-  "homepage": "https://github.com/akolit-io/kalender-liturgi#readme"
+  "homepage": "https://github.com/akolites/kalender-liturgi#readme"
 }
