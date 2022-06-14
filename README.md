@@ -1,39 +1,42 @@
 # Kalender Liturgi
-Serve __Kalender Liturgi__ from [https://imankatolik.or.id/kalender.php](https://imankatolik.or.id/kalender.php) as static API by scraping from origin source and save to JSON format. Then you could use this for your web / app.
+An unofficial static JSON API of '__Kalender Liturgi__' / Indonesian Liturgy Calendar.
+Sourced by scraping from [https://imankatolik.or.id/kalender.php](https://imankatolik.or.id/kalender.php)
 
 
 ## Notice
-Please include credits to the origin ([https://imankatolik.or.id](https://imankatolik.or.id)).
+Since this is unofficial, please take care of the usage, especially for non-ordinary day. Stable for the usage of the ordinary day.
+In any way, it is always a good idea to re-confirm the date with pastor-in-charge / liturgy division.
 
-It is always a good idea to re-confirm the actual content (readings, colors) with pastor-in-charge / liturgy division.
+
+## Usage
+Example : 
+`https://akolites.github.io/kalender-liturgi/api/v1/kalender.json`
+`https://akolites.github.io/kalender-liturgi/api/v1/2022-02.json`
+
+.json name could be either `kalender.json` (the current month) or year-month (YYYY-mm) format. Up until next month is available, and will be updated on month change. e.g.
+
+it is strongly advised to use this endpoint, as this was hosted on Github Pages, backed by CDN:
+`https://akolites.github.io/kalender-liturgi/api/v1/`
+you could also use this:
+`https://raw.githubusercontent.com/akolites/kalender-liturgi/main/api/v1/` 
 
 
-## Static API
-To use the static API, [https://akolites.github.io/kalender-liturgi/api/v1/]() is strongly suggested as endpoint instead of [https://raw.githubusercontent.com/akolites/kalender-liturgi/main/api/v1/](), as the former was hosted on Github Pages, which is backed by CDN.
+## Static API Specs
 
-use `kalender.json` which is clone (hardlink) of the current month. if you need another month, use `yyyy-mm.json`.
+v1
 
-the scraped json format is like this : 
-```json
-//v1
-{
-    date: Date;
-    localDate: string;
-    url: URL;
-    name: string;
-    dayColor: string;
-    dayType: string;
-    color: string;
-    readings: {
-        innerHTML: string; // recommended to use this for re-render on html
-        links: {
-            url: URL;
-            text: string;
-        }[]; // experimental, since the source format tends to change
-    };
-}
-```
-
+| Name | Type | Info |
+| ------------- |:-------------:| -----:|
+| `date` | Date | date in epoch time |
+| `localDate` | string | date in Indonesian text |
+| `url` | URL | link to the daily readings of the day |
+| `name` | string | name of the feast |
+| `dayType` | enum [ minggu hariRaya pesta biasa ] | type of the day |
+| `dayColor` | string | color hex code of the day |
+| `color` | enum [ merah merah/putih putih hijau ungu ... ] | displayed color of the day (subject to change) |
+| `readings.innerHTML` | string | raw html content, use this for re-render on html |
+| `readings.links.url` | URL | link to the bible readings on `imankatolik.or.id/alkitabq.php` |
+| `readings.links.text` | string | the displayed readings text (subject to change) |
 
 ## How to
 - Install : 
@@ -53,4 +56,4 @@ the scraped json format is like this :
 
 
 ## Credits
-- [https://imankatolik.or.id](https://imankatolik.or.id)
+- Credits to the origin ([https://imankatolik.or.id](https://imankatolik.or.id)).
