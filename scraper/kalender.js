@@ -36,7 +36,7 @@ const parseDay = (el, meta) => {
         dayType: DATE_COLORCODE[dayColor](date.getDay()),
 
         // color theme
-        color: pakaianEl.textContent.replace('Warna Liturgi ', '').toLowerCase(),
+        color: pakaianEl.textContent.replace('Warna Liturgi ', '').toLowerCase().trim(),
 
         readings: {
             // use this to re-render on html, don't rely on parsed result
@@ -55,8 +55,8 @@ const parseBcAlkitab = (el) => {
             'url': el.href,
             // 'text': el.textContent,
             // description of the readings
-            // known desc : 'BcO', 'Sore', 'Pagi', 'MT' (Mazmur),
-            //              'atau' means it belongs to previous readings
+            // known prefix : 'BcO', 'Sore', 'Pagi', 'MT' (Mazmur),
+            //                'atau' means there are more than 1 for a reading
             'text': ((el) => {
                 const readingText = el.textContent.replace(/\s\n|\s{2,}|\n/, ' ');
                 let prevEl = el.previousSibling;
