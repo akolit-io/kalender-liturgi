@@ -22,20 +22,19 @@ Let us know if you're using this API, we will add it here!
 ### Endpoint
 Example : 
 
-`https://akolites.github.io/kalender-liturgi/api/v1/kalender.json`
+`https://akolites.github.io/kalender/api/v1/kalender.json`
 
-`https://akolites.github.io/kalender-liturgi/api/v1/2022-02.json`
+`https://akolites.github.io/kalender/api/v1/2022-02.json`
 
 .json name could be either `kalender.json` (the current month) or year-month `YYYY-mm.json` format. 
 Up until next month is available, and will be updated on month change.
 
 it is strongly advised to use this endpoint, as this was hosted on Github Pages, backed by CDN:
 
-`https://akolites.github.io/kalender-liturgi/api/v1/`
+`https://akolites.github.io/kalender/api/v1/`
 
-you could also use this:
-
-`https://raw.githubusercontent.com/akolites/kalender-liturgi/main/api/v1/` 
+~`https://raw.githubusercontent.com/akolites/kalender-liturgi/main/api/v1/`~
+(no longer included in main repository)
 
 
 ## Static API Specs
