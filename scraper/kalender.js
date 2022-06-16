@@ -1,4 +1,4 @@
-const MONTHS_ID = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+const MONTHS_ID = ['', 'Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
 const DATE_COLORCODE = {
     '#ff0000': (day) => day === 0 ? 'minggu' : 'hariRaya', // merah
     '#0000ff': (day) => 'pesta', // biru
@@ -29,7 +29,7 @@ const parseDay = (el, meta) => {
 
         // day name of the feast / memorial / ferial
         name: perayaanEl.textContent.replace('<br>', '')
-            .replace(/\s?\n|\s{2,}|\\n/g, ' '),
+            .replace(/\s?\n|\s{2,}|\\n/g, ' ').trim(),
 
         // liturgical date 
         dayColor: dayColor,
