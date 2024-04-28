@@ -39,12 +39,13 @@ const { chromium } = require('playwright-chromium');
                 timeout: 30 * 1000,
                 waitUntil: 'commit'
             }),
-            page.waitForResponse((response) => response.ok(), { timeout: 6000 })
+            await page.waitForResponse((response) => response.ok(), { timeout: 6000 }),
+            await page.waitForSelector('html')
         ]).catch(() => {
             gotoWithRetry(page, url, maxRetries - 1);
         });
     };
-    await gotoWithRetry(page, url, maxRetries);
+    await gotoWithRetry(page, url, maxRetries).catch(() => { process.exitCode(1); return });
 
     // inject our js scraper first
     await page.addScriptTag({ path: 'scraper/kalender.js' });
